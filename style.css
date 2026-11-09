@@ -1,0 +1,18 @@
+body{
+    background-color: antiquewhite;
+    margin: 50px;
+
+}
+h1{
+    color: blue;
+text-align: center;
+}
+h1:hover{
+    color: turquoise;
+}
+p{
+    color: darkslateblue;
+}
+p:hover{
+    color: plum;
+}
